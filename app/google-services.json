@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1051460531077",
+    "project_id": "tuyendung-cbcdb",
+    "storage_bucket": "tuyendung-cbcdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051460531077:android:5a0b3adda870410b714aec",
+        "android_client_info": {
+          "package_name": "com.example.tuyendung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051460531077-h1ikpqsh37af7lgangna8k2nca60hltj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnyZMhUPiZ75mJCCaJaVquhfH9e8RDzuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051460531077-h1ikpqsh37af7lgangna8k2nca60hltj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
